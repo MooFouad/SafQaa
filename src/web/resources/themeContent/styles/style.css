@@ -68,16 +68,16 @@ body {
   font-family: "Archivo", sans-serif;
   font-size: 14px;
   background-color: rgb(21, 30, 30) !important;
-  color: #888;
+  color: #eee;
 }
 p {
-  color : #888 !important;
+  color : #eee !important;
   line-height: 1.8;
   font-size: 14px;
   margin-bottom: 15px;
 }
 span{
-  color : #888 !important;
+  color : #eee !important;
 }
 input{
   color: #0F1111;
@@ -91,7 +91,7 @@ a {
   -webkit-transition: 0.5s;
   transition: 0.5s;
   text-decoration: none;
-  color : #888 !important;
+  color : #eee !important;
 }
 
 a:hover,
@@ -2462,6 +2462,8 @@ All Products Area CSS
 .single-product-box .product-content .btn {
   display: block;
   width: 100%;
+  background-color: #555;
+  font-weight: bold;
 }
 
 .single-product-box:hover .product-image img:nth-child(2),
